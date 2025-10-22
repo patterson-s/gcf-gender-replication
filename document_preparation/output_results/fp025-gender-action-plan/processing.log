@@ -1,0 +1,14 @@
+[2025-10-22 15:19:27] Starting processing: fp025-gender-action-plan.pdf
+[2025-10-22 15:19:27] Detected file type: .pdf
+[2025-10-22 15:19:27] Extracting text from document...
+[2025-10-22 15:19:28] Extracted 3 pages/sections, 1117 tokens
+[2025-10-22 15:19:28] Calling Claude API for enhanced extraction...
+[2025-10-22 15:19:49] Claude extraction complete (20478ms)
+[2025-10-22 15:19:49] Extracted metadata: title=FP025: Scaling up private sector climate finance through local financial institutions (GCF-EBRD SEFF co-financing Programme), country=The Middle East and North Africa, Western and Central Asia, Southern and Eastern Europe
+[2025-10-22 15:19:49] Running coverage check...
+[2025-10-22 15:19:54] Coverage check complete: score=95/100
+[2025-10-22 15:19:54] Coverage detail: The Extracted Text captures nearly all the substantive content from the Source PDF, including the complete program title, regional scope, organizational details, impact/outcome statements, all four detailed outputs with their activities and indicators, timelines, and responsibilities. The only minor omissions are some formatting artifacts and a few small textual elements like spacing inconsistencies, but all core programmatic information, objectives, and implementation details are fully preserved.
+[2025-10-22 15:19:54] Writing outputs to: output_results\fp025-gender-action-plan
+[2025-10-22 15:19:54] Wrote document.json
+[2025-10-22 15:19:54] Wrote chunks.json with 3 chunks
+[2025-10-22 15:19:54] Processing complete: SUCCESS
